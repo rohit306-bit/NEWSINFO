@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Masoud Popalzai and Celine Alkhaldi, CNN",
+      "title": "Afghan women are sharing photos of dresses to protest the Taliban's black hijab mandate - CNN",
+      "description": "Afghan women around the world are protesting the Taliban's new hijab requirement in schools by posting photos of themselves wearing colorful traditional dresses on social media.",
+      "url": "https://www.cnn.com/2021/09/13/asia/afghan-women-protest-hijab-mandate-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210913155443-07-afghan-women-traditional-dress-split-super-tease.jpg",
+      "publishedAt": "2021-09-13T15:57:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "SFGate" },
+      "author": "Eric Ting",
+      "title": "Even Gavin Newsom's least optimistic pollster thinks recall is a beatdown - SFGate",
+      "description": "Analysts, and even Republican campaign operatives, are increasingly blaming Larry Elder...",
+      "url": "https://www.sfgate.com/gavin-newsom-recall/article/recall-Newsom-polls-California-election-latest-21-16454889.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/21/67/41/21461107/6/rawImage.jpg",
+      "publishedAt": "2021-09-13T15:38:32Z",
+      "content": "Polls of the Gavin Newsom recall election from Emerson College and Nexstar Media have typically yielded some of the governor's worst results.Now, one day before the Sept. 14 election day, Emerson/Nex… [+1473 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Alta Spells, CNN",
+      "title": "A heart patient died after he couldn't get a cardiac ICU bed in 43 hospitals. Now his family is pleading for people to get vaccinated - CNN",
+      "description": "Ray DeMonia wasn't seeking Covid-19 treatment when he arrived at an Alabama hospital with heart problems.",
+      "url": "https://www.cnn.com/2021/09/13/us/alabama-heart-patient-icu-shortage/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210913105230-ray-demonia-super-tease.jpg",
+      "publishedAt": "2021-09-13T15:28:00Z",
+      "content": "(CNN)Ray DeMonia wasn't seeking Covid-19 treatment when he arrived at an Alabama hospital with heart problems.\r\nBut the 73-year-old became an indirect victim of Covid-19 patients filling hospitals an… [+3622 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lauren Fox, Ted Barrett, Manu Raju and Ali Zaslav, CNN",
+      "title": "Capitol Police arrest man with bayonet and machete in truck near DNC headquarters - CNN",
+      "description": "US Capitol Police say they arrested a California man who had multiple knives in his truck, which had a swastika and other White supremacist symbols painted on it, near the Democratic National Committee headquarters early Monday morning.",
+      "url": "https://www.cnn.com/2021/09/13/politics/bayonet-machete-arrest-capitol-police/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210913105648-02-uscp-officers-arrest-california-man-super-tease.jpg",
+      "publishedAt": "2021-09-13T15:23:00Z",
+      "content": "(CNN)US Capitol Police say they arrested a California man who had multiple knives in his truck, which had a swastika and other White supremacist symbols painted on it, near the Democratic National Co… [+2653 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Carl Zimmer",
+      "title": "A New Company With a Wild Mission: Bring Back the Woolly Mammoth - The New York Times",
+      "description": "With $15 million in private funding, Colossal aims to bring thousands of woolly mammoths back to Siberia. Some scientists are deeply skeptical that will happen.",
+      "url": "https://www.nytimes.com/2021/09/13/science/colossal-woolly-mammoth-DNA.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/09/13/science/13SCI-mammoth-3/13SCI-mammoth-3-facebookJumbo.jpg",
+      "publishedAt": "2021-09-13T15:16:22Z",
+      "content": "At the time, researchers were learning how to reconstruct the genomes of extinct species based on fragments of DNA retrieved from fossils. It became possible to pinpoint the genetic differences that … [+2343 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Kayla Rivas",
+      "title": "COVID-19 vaccine boosters unnecessary for most, say FDA advisers reportedly resigning over issue - Fox News",
+      "description": "Available evidence doesn’t yet indicate a need for COVID-19 vaccine booster shots among the general population, an international group of scientists said Monday, including two senior FDA officials reportedly stepping down from their posts over a disagreement …",
+      "url": "https://www.foxnews.com/health/covid-19-vaccine-booster-unnecessary-fda-resigning",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Johnson-and-Johnson.png",
+      "publishedAt": "2021-09-13T15:09:46Z",
+      "content": "Available evidence doesnt yet indicate a need for COVID-19vaccine booster shots among the general population, an international group of scientists said Monday, including two senior FDA officials repo… [+2547 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Brian Cheung",
+      "title": "American households continue to expect rising inflation: NY Fed survey - Yahoo Finance",
+      "description": "A new survey from the New York Fed noted that the median expectation for the rate of inflation over the next year increased to 5.2% — the highest seen since ...",
+      "url": "https://finance.yahoo.com/news/american-households-continue-to-expect-rising-inflation-ny-fed-survey-150935793.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/X6bBrisoxtGTsz4oDZVCVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/be5e47b0-14a2-11ec-b77f-c8d8b0489d55",
+      "publishedAt": "2021-09-13T15:09:35Z",
+      "content": "A new survey from the Federal Reserve Bank of New York noted that American households are continuing to ratchet up expectations for the pace of price increases over the next year.\r\nThe New York Fed n… [+2886 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Www.https" },
+      "author": "Tyler McCarthy",
+      "title": "Sam Asghari says he and Britney Spears will have a prenup, mocks trolls for asking - Fox News",
+      "description": "Britney Spears’ new fiancé, Sam Asghari, responded in good humor to trolls who begged the pop star to get a prenup after the couple’s engagement news.",
+      "url": "https://www.https://pagesix.com/2021/09/13/britney-spears-fiance-sam-asghari-laughs-off-prenup-comments/",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Sam_Asghari_Britney_Spears_Getty_Images.jpg",
+      "publishedAt": "2021-09-13T15:06:28Z",
+      "content": "Octavia Spencer, you listening?\r\nBritney Spears new fiancé, Sam Asghari, responded in good humor to trolls who begged the pop star to get a prenup after the couples engagement news.\r\n\"Thank you to ev… [+1975 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Every 2021 Acceptance Speech ft. Lil Nas X, BTS, Doja Cat & More | 2021 Video Music Awards - MTV",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZkhHcFFiVVVUUHPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-09-13T15:00:18Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Jessica Chasmar",
+      "title": "Congress exempt from Biden’s COVID-19 vaccine mandate - Fox News",
+      "description": "President Biden’s executive order mandating COVID-19 vaccines among all federal workers does not apply to members of Congress, the federal court system or their staffers.",
+      "url": "https://www.foxnews.com/politics/congress-exempt-biden-covid-19-vaccine-mandate",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/AP21187705717363.jpg",
+      "publishedAt": "2021-09-13T14:55:20Z",
+      "content": "President Bidens executive order mandating COVID-19 vaccines among all federal workers does not apply to members of Congress, the federal court system or their staffers.\r\nBidens order Thursday mandat… [+1655 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadspin" },
+      "author": "Donovan Dooley",
+      "title": "Browns fold in fourth like a restaurant napkin as Patrick Mahomes rescues his JV-level defense - Deadspin",
+      "description": "Cleveland had the Chiefs right where it wanted them … until it didn’t",
+      "url": "https://deadspin.com/browns-fold-in-fourth-like-a-restaurant-napkin-as-patri-1847664213",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b54317205ea93d05dd59582eb5bc761b.jpg",
+      "publishedAt": "2021-09-13T14:51:00Z",
+      "content": "The Browns are one of the most talented teams in the NFL from top to bottom.\r\nThe roster is filled with guys who can play. \r\nAnd when they went into Kansas City and had the Chiefs in a stranglehold f… [+2005 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Michael Wayland",
+      "title": "Ford hires Lowe's executive to lead automaker's data and software transformation - CNBC",
+      "description": "Mike Amend, who was most recently president of online for Lowe's, will oversee Ford's data, software and technology, effective immediately.",
+      "url": "https://www.cnbc.com/2021/09/13/ford-taps-lowes-executive-to-lead-data-and-software-transformation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106885556-16214553742021-05-19t200034z_1957800806_rc28jn9esmqz_rtrmadp_0_ford-motor-sk-innovation-batteries.jpeg?v=1621455449",
+      "publishedAt": "2021-09-13T14:47:43Z",
+      "content": "DETROIT Ford Motor has hired an online retail sales veteran as its new chief digital and information officer marking the second high-profile appointment to CEO Jim Farley's executive team in the past… [+1786 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "Bill Chappell",
+      "title": "Parts Of The Texas Gulf Coast May See 20 Inches Of Rain From Tropical Storm Nicholas - NPR",
+      "description": "Nicholas could strengthen into a hurricane before making landfall Monday. The storm will trigger \"considerable flash and urban flooding,\" the National Hurricane Center says.",
+      "url": "https://www.npr.org/2021/09/13/1036568586/tropical-storm-nicholas-updates-texas-louisiana",
+      "urlToImage": "https://media.npr.org/assets/img/2021/09/13/tropical-storm-nicholas-texas-satellite-gulf_wide-e011f7322900527af85770f149d42fadbdba726a.jpg?s=1400",
+      "publishedAt": "2021-09-13T14:42:00Z",
+      "content": "A huge swath of the Gulf Coast is under a \"moderate\" flash flood risk for the next three days, the NWS warns, as Tropical Storm Nicholas approaches.\r\nWeather Prediction Center/ NWS\r\nThe Texas Gulf Co… [+3778 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barron's" },
+      "author": "Ben Levisohn",
+      "title": "Moderna Stock Tanks on Review Arguing Covid Vaccine Booster Might Not Be Needed - Barron's",
+      "description": "An article in the Lancet suggested that a booster shot wouldn't be necessary for most people after a review of data from clinical trials, as well as efficacy in the real world.",
+      "url": "https://www.barrons.com/articles/moderna-stock-covid-vaccine-booster-51631544133",
+      "urlToImage": "https://images.barrons.com/im-383060/social",
+      "publishedAt": "2021-09-13T14:42:00Z",
+      "content": "Moderna\r\n stock, as well as shares of Covid vaccine makers \r\n BioNTech\r\n and \r\n Novavax,\r\n were sliding after an article in the Lancet suggested that a booster shot wouldnt be necessary for most peop… [+872 chars]"
+    },
+    {
+      "source": { "id": null, "name": "HuffPost" },
+      "author": "Catherine Pearson",
+      "title": "What Happens If You Get Your Flu Shot And COVID Booster At The Same Time? - HuffPost",
+      "description": "Here's what we know about timing coronavirus and influenza vaccines, and what you should do when it's your turn.",
+      "url": "https://www.huffpost.com/entry/covid-booster-flu-shot_l_613e9ef9e4b0628d095cd80a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/613e9fb126000087ed540a0b.jpeg?ops=1778_1000",
+      "publishedAt": "2021-09-13T14:39:15Z",
+      "content": "Can you get a COVID booster and flu vaccine at the same time? Here's what you need to know. \r\nLast year, public health experts were deeply concerned about the prospect of a flu and a COVID-19 twindem… [+5254 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jacob Pramuk",
+      "title": "House Democrats propose new tax hikes to pay for their $3.5 trillion bill: Here are the details - CNBC",
+      "description": "House Democrats proposed a 26.5% top corporate tax rate and 39.6% top individual rate as they try to pay for a $3.5 trillion bill.",
+      "url": "https://www.cnbc.com/2021/09/13/house-democrats-propose-tax-increases-in-3point5-trillion-budget-bill.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106301078-1576608142762nancy.jpg?v=1576608156",
+      "publishedAt": "2021-09-13T14:08:04Z",
+      "content": "House Democrats on Monday outlined a bevy of tax hikes on corporations and wealthy people to fund an investment in the social safety net and climate policy that could reach $3.5 trillion\r\nThe plan ca… [+2798 chars]"
+    },
+    {
+      "source": { "id": null, "name": "XDA Developers" },
+      "author": "João Carrasqueira",
+      "title": "New Windows 11 Photos app is now rolling out, and you can download it - XDA Developers",
+      "description": "After Microsoft teased it last week, the new Windows 11 Photos app seems to be available for some users, and you can download it, too.",
+      "url": "https://www.xda-developers.com/new-windows-11-photos-rolling-out-how-to-download/",
+      "urlToImage": "https://www.xda-developers.com/files/2021/09/Windows-11-Photos-app.jpg",
+      "publishedAt": "2021-09-13T14:08:00Z",
+      "content": "The new Windows 11 Photos app is now available, as some users on Reddit have begun receiving the update. Last week, Microsoft’s Panos Panay teased the new app, saying it’d be coming to Insiders soon.… [+2021 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Tanaya Macheel",
+      "title": "Walmart says crypto payments announcement is fake. Litecoin tumbles after spike - CNBC",
+      "description": "Cryptocurrency litecoin gave up a 20% gain and tumbled back to earth following a suspicious press release sent out by GlobeNewswire that referenced a partnership with Walmart.",
+      "url": "https://www.cnbc.com/2021/09/13/walmart-to-accept-payments-with-cryptocurrencies-using-litecoin.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106922370-1628163544244-gettyimages-1332401073-l1001560_2021080465321212.jpeg?v=1629198808",
+      "publishedAt": "2021-09-13T13:54:22Z",
+      "content": "Cryptocurrency litecoin gave up a 20% gain and tumbled back to earth following a fake press release sent out by GlobeNewswire that referenced a partnership with Walmart.\r\nA Walmart spokesperson confi… [+615 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Ian Lovett",
+      "title": "The Struggle to Reverse a Shrinking Population Hits Some Nations Harder - The Wall Street Journal",
+      "description": "As the rich world contemplates a future of labor shortages and possible economic stagnation, demographic decline is already reality in Latvia",
+      "url": "https://www.wsj.com/articles/this-country-is-struggling-to-reverse-a-shrinking-population-11631535362",
+      "urlToImage": "https://images.wsj.net/im-399132/social",
+      "publishedAt": "2021-09-13T13:31:00Z",
+      "content": "DAGDA, LatviaFor nearly three decades, Inara Frolova, a local civil servant, has recorded just how fast this remote district on Latvias eastern border has dwindled. When her three brothers, her first… [+298 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Will Feuer",
+      "title": "Opening statements kick off first trial of college admissions scandal - New York Post ",
+      "description": "Opening statements are slated to begin Monday in the first trial of the college admissions cheating scandal that ensnared celebrities Lori Loughlin and Felicity Huffman.",
+      "url": "https://nypost.com/2021/09/13/first-trial-of-college-admissions-scandal-begins/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/varsity-blues-02.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-09-13T13:30:00Z",
+      "content": "Opening statements are slated to begin Monday in the first trial of the college admissions cheating scandal that ensnared celebrities Lori Loughlin and Felicity Huffman and was portrayed in the “Oper… [+3616 chars]"
+    }
+  ]
+}
