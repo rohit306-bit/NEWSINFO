@@ -30,7 +30,7 @@ export class NavBar extends Component {
         <li className="nav-item">
           <Link className="nav-link" to="/Health">Health</Link>
         </li>
-        {/* <li className="nav-item">
+        <li className="nav-item">
           <Link className="nav-link" to="/Science">Science</Link>
         </li>
         <li className="nav-item">
@@ -38,7 +38,7 @@ export class NavBar extends Component {
         </li>
         <li className="nav-item">
           <Link className="nav-link" to="/Technology">Technology</Link>
-        </li> */}
+        </li>
       
       </ul>
      
